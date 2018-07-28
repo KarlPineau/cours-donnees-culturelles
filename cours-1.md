@@ -75,4 +75,23 @@ Ce fichier contient les différents éléments dont vous aurez besoin pour suivr
             <first_indexation_date>03/05/2010</first_indexation_date>
         </results>
   
- - Autre point
+- Requête en JSON : https://media.nga.gov/public/manifests/nga_highlights.json
+- Extrait du code JSON obtenu :
+
+      {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+          "@type": "sc:Manifest",
+          "logo": "https://www.nga.gov/content/dam/ngaweb/imgs/NGAEB.jpg",
+          "label": "National Gallery of Art Collection Highlights",
+          "metadata": [
+              {
+                  "label": "Description",
+                  "value": "Highlights from the collection of the National Gallery of Art"
+              }
+          ],
+          "description": "A selection of highlights from the National Gallery of Art",
+          "guid": "e61700b6-7cb9-4c14-92ab-4246a345ec71",
+          "viewingDirection": "left-to-right",
+          "viewingHint": "individuals"
+      }
