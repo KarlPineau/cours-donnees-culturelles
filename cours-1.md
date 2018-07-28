@@ -12,25 +12,35 @@ Ce fichier contient les différents éléments dont vous aurez besoin pour suivr
   - **Europeana** : https://www.europeana.eu/ | Europeana est la bibliothèque numérique de l'Union Européenne. Elle a vocation à donner accès et à valoriser la culture et l'histoire européenne au sens large
   - **Biblissima** : http://beta.biblissima.fr/ | Biblissima est une bibliothèque numérique française spécialisée dans la valorisation des collections de manuscrits.
 - Les biblothèques :
-  - BNF, Gallica
-  - 
+  - **data.BNF**, **Gallica** : http://data.bnf.fr/ & http://gallica.bnf.fr | Plus besoin de présenter Gallica... data.bnf étant le référentiel de la BNF en matière d'oeuvres et de personnes
+  - **NumeLyo** : http://numelyo.bm-lyon.fr/ | Numelyo est la bibliothèque numérique de la ville de Lyon
+  - **Library of Congress** : https://www.loc.gov/ | Bibliothèque du congrès américain
+  - Et puis aussi tout ça : https://en.wikipedia.org/wiki/List_of_digital_library_projects
 - Les archives :
+  - **Archives nationales** : http://www.archives-nationales.culture.gouv.fr/ | Qui numérisent de plus en plus leurs archives
+  - **France Archives** : https://francearchives.fr/ | La "bibliothèque numérique" des archives françaises
+  - **Archives départementales des Yvelines** : http://archives.yvelines.fr/ | Une institution archivistique particulièrement à la pointe en matière de crowdsourcing culturelle, à travers Adopte un poilus notamment
+  - **Mémoire des Hommes** : http://memoiredeshommes.sga.defense.gouv.fr/ | Un site du ministère des armées qui référence tous les soldats morts pour la France et qui est particulièrement à la pointe en terme de crowdsourcing
 - Les musées :
-  - Musée de Bretagne : http://www.collections.musee-bretagne.fr/
-  - British Museum : https://collection.britishmuseum.org
+  - **Musée de Bretagne** : http://www.collections.musee-bretagne.fr/ | Un des rares musées français à proposer ses données en open data
+  - **British Museum** : https://collection.britishmuseum.org
+  - **Metropolitan Museum** : https://www.metmuseum.org/
+  - **Rijksmuseum** : https://www.rijksmuseum.nl/en/
 - Les projets de recherche universitaire :
-  - Isidore & Huma-Num
+  - **Isidore & Huma-Num** : http://huma-num.fr | La Très Grande Infrastructure de Recherche qui permet à de nombreux projets de recherche d'exister
+  - **DARIAH-EU** : https://www.dariah.eu/ | La structure européenne qui héberge et finance un grand nombre de projets
+  - **Venice Time Machine** : https://vtm.epfl.ch/ | Un projet de numérisation de la ville de Venise à différentes époques
+  - **Persée** : http://data.persee.fr/ | Bibliothèque numérique de revues scientifiques
 - Les référentiels :
-  - VIAF
-  - AAT & ULAN
-  - IdRef
-  - Geonames
+  - **VIAF** : https://viaf.org/ | Référentiel américain des personnalités
+  - **AAT** & **ULAN** : http://www.getty.edu/research/tools/vocabularies/ulan/index.html | Deux référentiels incontournables du Getty sur les techniques et sur les artistes
+  - **IdRef** : https://www.idref.fr/ | Référentiel sur les auteurs
+  - **Geonames** : http://geonames.org/ | Référentiel sur les lieux
 - Les autres :
-  - Wikidata
-  - DBpedia
-  - Google Art Culture & Google knowledge graph
-  - data.gouv.fr & data.culture.gouv.fr
-  - Les bases du Ministère : Joconde, Mérimée, Palissy, POP, Moteur Collections
+  - **Wikidata** : https://www.wikidata.org/ | Wikidata est devenue en 5 ans LA base de référence pour les données culturelles. C'est l'équivalent de Wikipédia pour les données
+  - **DBpedia** : https://dbpedia.org/ | DBpedia est l'un des premiers projets sur les données à émerger, basé sur les données de Wikipédia
+  - **data.gouv.fr** & **data.culture.gouv.fr** : http://data.culture.gouv.fr/ | Référence tous les jeux de données publics sur la culture
+  - **Les bases du Ministère : Joconde, Mérimée, Palissy, POP, Moteur Collections** : http://collections.culture.fr/ | Référence toutes les collections françaises.
 
 ## Récupérons des données - Jouons avec les APIs :
 - Les APIs :
