@@ -6,6 +6,32 @@ Ce fichier contient les différents éléments dont vous aurez besoin pour suivr
 - Enseignant : Karl Pineau
 - Contact : karl.pineau@utc.fr
 
+## Les pourvoyeurs de données culturelles :
+- Les "galleries" :
+  - **INHA** : https://www.inha.fr/, à travers AGORHA : http://agorha.inha.fr/ | L'Institut National d'Histoire de l'Art est l'une des principales institutions européennes produisant des données sur l'histoire de l'art
+  - **Europeana** : https://www.europeana.eu/ | Europeana est la bibliothèque numérique de l'Union Européenne. Elle a vocation à donner accès et à valoriser la culture et l'histoire européenne au sens large
+  - **Biblissima** : http://beta.biblissima.fr/ | Biblissima est une bibliothèque numérique française spécialisée dans la valorisation des collections de manuscrits.
+- Les biblothèques :
+  - BNF, Gallica
+  - 
+- Les archives :
+- Les musées :
+  - Musée de Bretagne : http://www.collections.musee-bretagne.fr/
+  - British Museum : https://collection.britishmuseum.org
+- Les projets de recherche universitaire :
+  - Isidore & Huma-Num
+- Les référentiels :
+  - VIAF
+  - AAT & ULAN
+  - IdRef
+  - Geonames
+- Les autres :
+  - Wikidata
+  - DBpedia
+  - Google Art Culture & Google knowledge graph
+  - data.gouv.fr & data.culture.gouv.fr
+  - Les bases du Ministère : Joconde, Mérimée, Palissy, POP, Moteur Collections
+
 ## Récupérons des données - Jouons avec les APIs :
 - Les APIs :
   - URL de l'API Google : https://www.google.com/maps/search/?api=1&query=Paris
