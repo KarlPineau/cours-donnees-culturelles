@@ -95,3 +95,7 @@ Ce fichier contient les différents éléments dont vous aurez besoin pour suivr
           "viewingDirection": "left-to-right",
           "viewingHint": "individuals"
       }
+
+## Sauvegarder les données récupérées :
+- Télécharger SublimeText : https://www.sublimetext.com/
+- Le menu de SublimeText pour modifier le langage utilisé : View > Syntax [> Javascript > JSON]
