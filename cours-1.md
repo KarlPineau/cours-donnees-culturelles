@@ -5,6 +5,7 @@ Ce fichier contient les différents éléments dont vous aurez besoin pour suivr
 ## Informations pratiques :
 - Enseignant : Karl Pineau
 - Contact : karl.pineau@utc.fr
+- Lien vers le slide : https://docs.google.com/presentation/d/16W1VXVP69y_zSfwEqcJYAe3dPIOfFdhl0Er_LtLlngY/edit?usp=sharing
 
 ## Les pourvoyeurs de données culturelles :
 - Les "galleries" :
