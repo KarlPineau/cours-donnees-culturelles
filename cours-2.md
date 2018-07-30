@@ -8,7 +8,11 @@ Rendre les données exploitables
 - Pour finir, les logiciels type Excel, Google SpreadSheet ou LibreOffice Sheet sont très utiles pour les données tabulées.
 
 ### Débutons avec Python :
-[Voir le fichier dédié](cours-2-debutons-avec-python.md)
+[Voir la page dédiée](cours-2-debutons-avec-python.md)
+
+### Analyser un fichier JSON avec Python
+
+### Analyser un fichier XML avec Python
 
 ## Des logiciels en ligne utiles pour analyser les données
 Mais attention, cela signifie que vous devez y uploader vos données, donc prenez garde à ne pas y laisser de données confidentielles
