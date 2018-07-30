@@ -1,4 +1,6 @@
 # Débutons avec Python
+Nous allons à présent découvrir le langage de programmation Python
+
 - **Assurez-vous d'avoir bien installer Python 3.7** auparavant (https://www.python.org/downloads/)
 - **Installez Pycharm CE** et lancez Pycharm CE. Pycharm est un **IDE**, c'est-à-dire un Environnement de Développement Intégré. Cela signifie que c'est un logiciel avec lequel vous pouvez créer tout un projet Python, en autonomie.
 - Au premier lancement, Pycharm va demander à être configuré. Inutile de modifier quoi que ce soit à la configuration initiale proposée :)
@@ -16,3 +18,5 @@
 - Faites y un clic droit sur le nom de votre fichier **hello.py** (en haut, au-dessus de la zone de saisie) et cliquez sur "**Run 'hello'**".
 - Une fenêtre s'ouvre en bas de votre écran, et "Bonjour !" y apparait.
 ![Environnement de travail](/media/cours-2-capt-3.png)
+
+[-> Retour au cours général](cours-2.md)
