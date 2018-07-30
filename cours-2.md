@@ -12,13 +12,13 @@ Rendre les données exploitables
 - **Installez Pycharm CE** et lancez Pycharm CE. Pycharm est un **IDE**, c'est-à-dire un Environnement de Développement Intégré. Cela signifie que c'est un logiciel avec lequel vous pouvez créer tout un projet Python, en autonomie.
 - Au premier lancement, Pycharm va demander à être configuré. Inutile de modifier quoi que ce soit à la configuration initiale proposée :)
 - Une fois configuré, vous allez pouvoir créer un nouveau projet :
-![Créez un nouveau projet](media/cours-2-capt-1.png)
+![Créez un nouveau projet](/media/cours-2-capt-1.png)
   - Placez-le dans un répertoire "*PycharmProjects*" (déjà créé par votre ordinateur normalement)
   - Intitulez-le "*cours-donnees-culturelles*"
   - Déroulez la partie "*Project interpreter*" et vérifiez que la ligne "*Base interpreter*" indique bien **Python 3.7**
   - Cliquez sur *Create*
 - Votre environnement de travail doit ressembler à ceci :
-![Environnement de travail](media/cours-2-capt-2.png)
+![Environnement de travail](/media/cours-2-capt-2.png)
 
 ## Des logiciels en ligne utiles pour analyser les données
 Mais attention, cela signifie que vous devez y uploader vos données, donc prenez garde à ne pas y laisser de données confidentielles
