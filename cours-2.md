@@ -19,6 +19,11 @@ Rendre les données exploitables
   - Cliquez sur *Create*
 - Votre environnement de travail doit ressembler à ceci :
 ![Environnement de travail](/media/cours-2-capt-2.png)
+- Faites un clic droit sur le dossier racine de votre projet dans la colonne de gauche (cours-donnees-culturelles) : new > Python file
+- Intitulez ce fichier "**hello**", et cliquez sur "*OK*"
+- Ce fichier s'ouvre (ou alors ouvez-le) et tapez-y `print('Bonjour !')`
+- Faites y un clic droit sur le nom de votre fichier **hello.py** (en haut, au-dessus de la zone de saisie) et cliquez sur "**Run 'hello'**".
+- Une fenêtre s'ouvre en bas de votre écran, et "Bonjour !" y apparait.
 
 ## Des logiciels en ligne utiles pour analyser les données
 Mais attention, cela signifie que vous devez y uploader vos données, donc prenez garde à ne pas y laisser de données confidentielles
