@@ -1,11 +1,10 @@
 # Nettoyer et aligner des données
-Rendre les données exploitables
 
-## Installons quelques logiciels pour nettoyer nos données
-- Pour commencer, nous allons devoir utiliser Python : https://www.python.org/downloads/ | Téléchargez la version 3.* (3.7 a priori)
-- Ensuite, téléchargeons un logiciel pour utiliser Python : https://www.jetbrains.com/pycharm/download/ | Téléchargez la version Community (gratuite)
-- Enfin, nous allons avoir besoin d'un dernier logiciel, OpenRefine : http://openrefine.org/download.html
-- Pour finir, les logiciels type Excel, Google SpreadSheet ou LibreOffice Sheet sont très utiles pour les données tabulées.
+## Logiciels à installer pour traiter nos données
+- Python : https://www.python.org/downloads/ | Téléchargez la version 3.* (3.7 a priori)
+- Pycharm : https://www.jetbrains.com/pycharm/download/ | Téléchargez la version Community (gratuite)
+- OpenRefine : http://openrefine.org/download.html
+- LibreOffice : https://www.libreoffice.org/download/download/ | Si vous n'avez pas Excel
 
 ### Débutons avec Python :
 [Voir la page dédiée](cours-2-debutons-avec-python.md)
@@ -14,8 +13,8 @@ Rendre les données exploitables
 
 ### Analyser un fichier XML avec Python
 
-## Des logiciels en ligne utiles pour analyser les données
-Mais attention, cela signifie que vous devez y uploader vos données, donc prenez garde à ne pas y laisser de données confidentielles
+## Outils en ligne pour analyser les données
+Attention, les outils en ligne sont pratiques mais la sécurité des données n'y est pas garantie. Prenez garde à ne pas y laisser de données confidentielles
 - **WTFcsv** : Un petit outil de visualisation des données CSV, pratique pour déceler les erreurs d'encodage https://databasic.io/en/wtfcsv/
 
 
