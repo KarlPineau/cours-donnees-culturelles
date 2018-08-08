@@ -1,4 +1,4 @@
-**[[M2 PSMIC] Données culturelles](../README.md)**
+**[[M2 PSMIC] Données culturelles](README.md)**
 
 #  Cours 1 : Introductions aux données culturelles, données structurées & APIs
 
