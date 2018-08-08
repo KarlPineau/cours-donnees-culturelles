@@ -43,6 +43,16 @@ Ce fichier contient les différents éléments dont vous aurez besoin pour suivr
   - **data.gouv.fr** & **data.culture.gouv.fr** : http://data.culture.gouv.fr/ | Référence tous les jeux de données publics sur la culture
   - **Les bases du Ministère : Joconde, Mérimée, Palissy, POP, Moteur Collections** : http://collections.culture.fr/ | Référence toutes les collections françaises.
 
+## Exploiter des jeux de données existants :
+- Où trouver des données : http://data.gouv.fr, http://data.culture.gouv.fr, http://data.bnf.fr, [Github (Archives nationales)](https://github.com/ArchivesNationalesFR)
+- Structurer en format CSV :
+
+      Léonard, Peintre, 1452
+      Brunelleschi, Architecte, 1377
+      Michel-Ange, Sculpteur, 1475
+
+- Visualiser des données CSV : https://databasic.io/en/wtfcsv
+
 ## Récupérons des données - Jouons avec les APIs :
 - Les APIs :
   - URL de l'API Google : https://www.google.com/maps/search/?api=1&query=Paris
