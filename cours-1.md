@@ -1,6 +1,6 @@
 **[[M2 PSMIC] Données culturelles](README.md)**
 
-#  Cours 1 : Introductions aux données culturelles, données structurées & APIs
+# Cours 1 : Introductions aux données culturelles, données structurées & APIs
 
 Ce fichier contient les différents éléments dont vous aurez besoin pour suivre le cours.
 
