@@ -1,4 +1,6 @@
-# À la découverte du web sémantique
+**[[M2 PSMIC] Données culturelles](README.md) | [Cours précédent](cours-2.md)**
+
+# Cours 3 : À la découverte du web sémantique
 
 ## Informations pratiques :
 - Enseignant : Karl Pineau
