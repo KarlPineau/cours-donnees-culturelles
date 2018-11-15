@@ -58,7 +58,7 @@ Ce fichier contient les différents éléments dont vous aurez besoin pour suivr
 ## Récupérons des données - Jouons avec les APIs :
 - Les APIs :
   - URL de l'API Google : https://www.google.com/maps/search/?api=1&query=Paris
-  - URL de l'API Geonames : http://api.geonames.org/getJSON?formatted=true&geonameId=2988507&lang=fr&username=demo&style=full
+  - URL de l'API Geonames : http://api.geonames.org/getJSON?formatted=true&geonameId=2988507&lang=fr&username=karlpineauutc&style=full
 - Postman :
   - URL de téléchargement de Postman : https://www.getpostman.com/apps
 - Gallica :
