@@ -3,3 +3,4 @@
 # GitHub:
 - Indiquez votre nom d'utilisateur sur ce pad : https://mensuel.framapad.org/p/E8hp8FdUHD
 - Nous allons travailler sur ce repository : https://github.com/KarlPineau/cours-donneesculturelles-p13-etudiants
+- URL à cloner : https://github.com/KarlPineau/cours-donneesculturelles-p13-etudiants.git
